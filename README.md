@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Welcome to **Sophon Labs**
 
-<!--
-**sophon-labs-ai/sophon-labs-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Engineering • Data • Automation**
 
-Here are some ideas to get you started:
+At **Sophon Labs**, I design and build reliable data systems, automation tools, and cloud-native pipelines. My focus is on building clean, efficient, and scalable solutions that make data work *for* people, not against them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* **Data Engineering** – ETL/ELT pipelines, workflow orchestration, data modeling
+* **Automation** – Python tooling, API integrations, task automation
+* **Cloud & DevOps** – CI/CD, containerized workflows, cloud data infra
+* **Software Engineering** – backend services, CLI tools, data applications
+
+---
+
+## 🧰 Tech Toolbox
+
+**Languages:** Python, SQL, Bash
+**Data:** Snowflake, SQLite, PostgreSQL, DuckDB, Pandas
+**Cloud/Infra:** AWS, Docker, GitHub Actions
+**Dev Tools:** Flet, FastAPI, Nuitka, VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 **DB Hub**
+
+A lightweight, secure data management toolkit built around portability and encryption.
+*(Add project link here once repositories are renamed.)*
+
+### 🔹 **ETL Frameworks & Utilities**
+
+Reusable modules for pipelines, validation, and transformation.
+
+### 🔹 **Developer Productivity Tools**
+
+Internal automation utilities for faster workflows.
+
+---
+
+## 🌐 Connect
+
+* **Website:** [https://db-hub.sophon.ca](https://db-hub.sophon.ca)
+* **GitHub:** [https://github.com/sophon-labs](https://github.com/sophon-labs)
+
+---
+
+## 📫 Contact
+
+If you'd like to collaborate or discuss data engineering topics, feel free to open an issue or reach out.
+
+---
+
+**🔹 Sophon Labs — Engineering data with clarity and purpose.**
+

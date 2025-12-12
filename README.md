@@ -1,8 +1,8 @@
-# 👋 Welcome to **Sophon Labs**
+# 👋 Welcome to **Sophon Labs Ai**
 
-### **Engineering • Data • Automation**
+### **Engineering • Data • Automation • Ai Apps**
 
-At **Sophon Labs**, I design and build reliable data systems, automation tools, and cloud-native pipelines. My focus is on building clean, efficient, and scalable solutions that make data work *for* people, not against them.
+At **Sophon Labs**, I design and build reliable data systems, automation tools, cloud-native pipelines, Ai Apps. My focus is on building clean, efficient, and scalable solutions that make data work *for* people, not against them.
 
 ---
 
@@ -12,6 +12,7 @@ At **Sophon Labs**, I design and build reliable data systems, automation tools, 
 * **Automation** – Python tooling, API integrations, task automation
 * **Cloud & DevOps** – CI/CD, containerized workflows, cloud data infra
 * **Software Engineering** – backend services, CLI tools, data applications
+* **AI Apps** - AI Apps for Server, Desktop, mobile devices
 
 ---
 
@@ -29,7 +30,7 @@ At **Sophon Labs**, I design and build reliable data systems, automation tools, 
 ### 🔹 **DB Hub**
 
 A lightweight, secure data management toolkit built around portability and encryption.
-*(Add project link here once repositories are renamed.)*
+*(TO-DO: Add project link here once repositories are ready.)*
 
 ### 🔹 **ETL Frameworks & Utilities**
 
@@ -44,7 +45,7 @@ Internal automation utilities for faster workflows.
 ## 🌐 Connect
 
 * **Website:** [https://db-hub.sophon.ca](https://db-hub.sophon.ca)
-* **GitHub:** [https://github.com/sophon-labs](https://github.com/sophon-labs)
+* **GitHub:** [https://github.com/sophon-labs-ai](https://github.com/sophon-labs-ai)
 
 ---
 
@@ -54,5 +55,5 @@ If you'd like to collaborate or discuss data engineering topics, feel free to op
 
 ---
 
-**🔹 Sophon Labs — Engineering data with clarity and purpose.**
+**🔹 Sophon Labs Ai — Engineering data with clarity and purpose.**
 
